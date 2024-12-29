@@ -2,6 +2,6 @@ package myRepository_exercies;
 
 public class C {
 	public void C() {
-		System.out.println("This is initial version of class C");
+		System.out.println("Edited class C in devC branch");
 	}
 }
